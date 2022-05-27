@@ -3,7 +3,7 @@
 # src_minigame
 # src_ctf
 
-Hi all, tui dang hoc tap va sinh song tai DaNang, Tui thich bong ro, anh dep, va gai xinh =))) 
+Hi all, tui đang học tap va sinh song tai DaNang, tui thich bong ro, anh dep, va gai xinh :))) 
 
 Follow me on twitter: @HoangNa79135934
 
